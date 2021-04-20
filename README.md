@@ -28,7 +28,7 @@ the project aims to validate the test acceptance criteria for a web interface.
 2. Download and install a IDE(https://code.visualstudio.com/Download)
 
 ## Project run
-to run the project in headless mode use the command: npx cypress run
-to run the project in UI mode use the command: npx cypress open
+1. To run the project in headless mode use the command: npx cypress run.
+2. To run the project in UI mode use the command: npx cypress open.
 
 

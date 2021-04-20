@@ -1,7 +1,15 @@
 # ChatFood
 
 ## Introduction
-the project aims to validate the test acceptance criteria for a web interface.
+The project aims to validate the test acceptance criteria for a web interface.
+
+end-to-end test that:
+1. Starts on the main page
+2. Selects Top Rated on the top menu (Movies > Top Rated)
+3. Sorts the page by Release Date Ascending.
+4. Filter By Genres, and selects Documentary
+5. Clicks on the first movie from the list
+6. Verifies in the Media section that the number of videos listed is equals to the amount that is appearing after the word Videos eg: Videos 2
 
 ## Index
 
